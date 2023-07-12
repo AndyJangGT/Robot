@@ -1,6 +1,7 @@
 # About CR5 robot
 ## Preview
-![image](https://github.com/AndyJangGT/Robot/assets/62916560/e5c22a61-e57e-4fe7-8969-062af7e9a4c9)
+![image](https://github.com/AndyJangGT/Robot/assets/62916560/2d3ef261-2ff2-4984-8d02-83b449ddeeef)
+
 
 ## Statement of Dobotarm singular position:
 1轴范围±360度，刻度线为0位（正对logo左转角度为正)
